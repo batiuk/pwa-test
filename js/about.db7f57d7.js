@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapp_bati_uk"]=self["webpackChunkapp_bati_uk"]||[]).push([[443],{242:function(a,n,u){u.r(n),u.d(n,{default:function(){return b}});var t=u(252);const e={class:"about"},r=(0,t._)("h1",null,"This is an about page",-1),s=[r];function i(a,n){return(0,t.wg)(),(0,t.iD)("div",e,s)}var c=u(744);const p={},o=(0,c.Z)(p,[["render",i]]);var b=o}}]);
+//# sourceMappingURL=about.db7f57d7.js.map
